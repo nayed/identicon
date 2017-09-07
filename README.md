@@ -7,5 +7,6 @@ Generates Github-like [Identicon](https://github.com/blog/1586-identicons).
 $ mix deps.get
 $ mix run -e 'Identicon.main ["elixir"]'
 ```
-Will output
+Will output `images/elixir.png`
+
 ![elixir.png](elixir.png)
